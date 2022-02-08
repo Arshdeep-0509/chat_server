@@ -1,5 +1,4 @@
 const express = require("express");
-const res = require("express/lib/response");
 var http = require("http");
 const app = express();
 const port = process.env.PORT || 5000;
