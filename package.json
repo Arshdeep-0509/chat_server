@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "start": "node server"
   },
   "author": "Arsh",
   "license": "ISC",
